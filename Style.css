@@ -125,5 +125,27 @@ body {
     border:none; 
     border-radius: 20px;
 }
+.search-btn
+{
+    background-color:var(--secondaryColor);
+    color:var(--whiteColor);
+    border:none;
+    border-radius:20px;
+    width:120px;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
